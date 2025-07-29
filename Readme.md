@@ -1,11 +1,11 @@
-Cross-Elasticity in Retail/Fashion: Price, Promotion & Layout
-🎯 Project Objective
+# Cross-Elasticity in Retail/Fashion: Price, Promotion & Layout
 
-To quantify how price and physical shelf position affect product turnover across WOMAN/MAN categories, in order to optimize pricing strategies, promotional effectiveness, and portfolio distribution.
+🎯 Project Objective
+## To quantify how price and physical shelf position affect product turnover across WOMAN/MAN categories, in order to optimize pricing strategies, promotional effectiveness, and portfolio distribution.
 
 ---
 
-Elasticidad cruzada en retail/fashion: precio, promoción y layout
+### Elasticidad cruzada en retail/fashion: precio, promoción y layout
 🎯 Objetivo del proyecto
 Cuantificar el impacto del precio y la posición física en la rotación de productos WOMAN/MAN, para optimizar pricing, promociones y distribución de portafolio.
 
