@@ -1,7 +1,7 @@
 # Cross-Elasticity in Retail/Fashion: Price, Promotion & Layout
 
-🎯 Project Objective
-## To quantify how price and physical shelf position affect product turnover across WOMAN/MAN categories, in order to optimize pricing strategies, promotional effectiveness, and portfolio distribution.
+## 🎯 Project Objective
+To quantify how price and physical shelf position affect product turnover across WOMAN/MAN categories, in order to optimize pricing strategies, promotional effectiveness, and portfolio distribution.
 
 ---
 
